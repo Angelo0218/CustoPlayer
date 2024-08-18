@@ -272,7 +272,7 @@ export default {
     // 空白鍵
     document.addEventListener("keydown", this.handleKeyDown);
     // 創建無聲音頻對象
-    this.silentAudio = new Audio("\nomusic.mp3");
+    this.silentAudio = new Audio("/nomusic.mp3");
     this.silentAudio.loop = true;
 
     // 設置用戶交互事件監聽器
