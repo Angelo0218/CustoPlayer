@@ -1,0 +1,47 @@
+{
+  "name": "musicweb",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "css": "tailwind build tailwind.css -o ./src/index.css",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "ffprobe": "^1.1.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "https": "^1.0.0",
+    "lrc": "^0.1.0",
+    "lrc-file-parser": "^2.4.1",
+    "multer": "^1.4.5-lts.1",
+    "music-metadata": "^8.1.4",
+    "musicmetadata": "^2.0.5",
+    "mysql": "^2.18.1",
+    "node-id3": "^0.2.6",
+    "path": "^0.12.7",
+    "sharp": "^0.32.4",
+    "uuid": "^9.0.0",
+    "vue": "^3.2.47",
+    "vue-router": "^4.2.2"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "autoprefixer": "^10.4.14",
+    "daisyui": "^3.2.1",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.9",
+    "vite-plugin-mkcert": "^1.16.0"
+  },
+  "description": "這是一個使用 Vue.js 和 Vite 構建的簡單音樂播放器應用。它使用 PHP 作為後端語言，並使用 Tailwind CSS 作為 CSS 框架來構建美觀的介面。",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

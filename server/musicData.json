@@ -1,0 +1,68 @@
+[
+    {
+        "id": 30,
+        "imageURL": "/images/戶裡頭.png",
+        "title": "戶裡頭",
+        "number": "",
+        "album": "",
+        "artist": "廖偉盛 郭丞恩",
+        "duration": "3:08",
+        "url": "/music/music1.mp3",
+        "lyrics": "/lyrics/戶裡頭.txt"
+    },
+    {
+        "id": 31,
+        "imageURL": "/images/愛吃雞脖人.png",
+        "title": "愛吃雞脖人",
+        "number": "",
+        "album": "",
+        "artist": "廖偉盛",
+        "duration": "1:23",
+        "url": "/music/music2.mp3",
+        "lyrics": "/lyrics/愛吃雞脖人.txt"
+    },
+    {
+        "id": 32,
+        "imageURL": "/images/牛奶麥片.png",
+        "title": "牛奶麥片",
+        "number": "",
+        "album": "",
+        "artist": "廖偉盛",
+        "duration": "3:06",
+        "url": "/music/music3.mp3",
+        "lyrics": "/lyrics/牛奶麥片.txt"
+    },
+    {
+        "id": 33,
+        "imageURL": "/images/龍岡魂.png",
+        "title": "龍岡魂",
+        "number": "",
+        "album": "",
+        "artist": "廖偉盛",
+        "duration": "1:05",
+        "url": "/music/music4.mp3",
+        "lyrics": "/lyrics/龍岡魂.txt"
+    },
+    {
+        "id": 34,
+        "imageURL": "/images/特寫你.png",
+        "title": "特寫你",
+        "number": "",
+        "album": "",
+        "artist": "廖偉盛 郭丞恩",
+        "duration": "3:08",
+        "url": "/music/music5.mp3",
+        "lyrics": "/lyrics/特寫你.txt"
+    },
+    {
+        "id": 35,
+        "imageURL": "/images/我們先放輕鬆.png",
+        "title": "我們先放輕鬆",
+        "number": "",
+        "album": "",
+        "artist": "廖偉盛 郭丞恩",
+        "duration": "2:12",
+        "url": "/music/music6.mp3",
+        "lyrics": "/lyrics/我們先放輕鬆.txt"
+    }
+]

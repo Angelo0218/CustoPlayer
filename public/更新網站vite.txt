@@ -1,0 +1,2 @@
+sudo cp -r dist/* /var/www/html/site1
+sudo systemctl restart nginx
