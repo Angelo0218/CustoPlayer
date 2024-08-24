@@ -225,7 +225,7 @@ export default {
 
   mounted() {
     axios
-      .get("https://music.ajlo.org/music")
+      .get("")
       .then((response) => {
         // 成功獲取資料後，將歌曲列表資料存儲到 `musicList` 陣列中
         this.musicList = response.data;
